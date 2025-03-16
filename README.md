@@ -11,3 +11,7 @@ follow the naming convention:
 | ---- | ---- | ---- | ---- | ---- |
 | WiSDOM | 30 | 01 | 1327K93 | Rotary Shaft |
 
+## links to software
+
+[orca github](https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.0.0)
+
